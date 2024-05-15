@@ -6,7 +6,7 @@ replace google.golang.org/protobuf => google.golang.org/protobuf v1.33.0
 
 replace google.golang.org/grpc => google.golang.org/grpc v1.59.0
 
-replace github.com/lestrrat-go/jwx => github.com/lestrrat-go/jwx v1.2.28
+replace github.com/lestrrat-go/jwx => github.com/lestrrat-go/jwx v1.2.29
 
 require (
 	github.com/charmbracelet/bubbletea v0.22.1
